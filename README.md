@@ -57,7 +57,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/gaganmanku96/Finding-missing-person-using-AI.git
+   git clone https://github.com/reshavenithrinesh-rgb/Finding-missing-person-using-AI.git
    cd Finding-missing-person-using-AI
    pip install -r requirements.txt
    ```
@@ -82,6 +82,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
 
 
